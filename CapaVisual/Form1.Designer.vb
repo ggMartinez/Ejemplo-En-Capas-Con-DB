@@ -126,7 +126,7 @@ Partial Class Form1
         Me.ListaDePersonas.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize
         Me.ListaDePersonas.Location = New System.Drawing.Point(180, 12)
         Me.ListaDePersonas.Name = "ListaDePersonas"
-        Me.ListaDePersonas.Size = New System.Drawing.Size(306, 214)
+        Me.ListaDePersonas.Size = New System.Drawing.Size(306, 263)
         Me.ListaDePersonas.TabIndex = 10
         '
         'btnListar
@@ -160,7 +160,7 @@ Partial Class Form1
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
-        Me.ClientSize = New System.Drawing.Size(498, 361)
+        Me.ClientSize = New System.Drawing.Size(498, 295)
         Me.Controls.Add(Me.btnModificar)
         Me.Controls.Add(Me.btnBorrar)
         Me.Controls.Add(Me.btnListar)
